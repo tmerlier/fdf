@@ -13,9 +13,9 @@ paramètre.
 |----------------	|----------	|
 | `make`      	  | Compile tous les .c et créer un exécutable fdf  	|
 | `make clean`    | Supprime les .o.  	|
-| `make flcean`  	| Supprime les .o et libft.a.  	|
+| `make flcean`  	| Supprime les .o et fdf.  	|
 | `make re`     	| Exécute fclean et make.  	|
 
 # <a name="exemple">Exemple</a>
 
-[42Fdf](https://github.com/tmerlier/fdf/42Fdf.png)
+[42Fdf](https://github.com/tmerlier/fdf/42Fdf.jpg)
